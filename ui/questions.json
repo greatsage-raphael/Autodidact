@@ -1,0 +1,38 @@
+[
+    {
+      "question": "0 + 0 = ",
+      "answerOptions": [
+        { "answer": "00" },
+        { "answer": "10" },
+        { "answer": "0", "isCorrect": true },
+        { "answer": "None of the above" }
+      ]
+    },
+    {
+      "question": "3 + 3 = ",
+      "answerOptions": [
+        { "answer": "2" },
+        { "answer": "14" },
+        { "answer": "6", "isCorrect": true },
+        { "answer": "7" }
+      ]
+    },
+    {
+      "question": "0 - 0 = ",
+      "answerOptions": [
+        { "answer": "00" },
+        { "answer": "0", "isCorrect": true },
+        { "answer": "10" },
+        { "answer": "-0" }
+      ]
+    },
+    {
+      "question": "3 - 1 = ",
+      "answerOptions": [
+        { "answer": "4" },
+        { "answer": "-2" },
+        { "answer": "2", "isCorrect": true },
+        { "answer": "None of the above" }
+      ]
+    }
+  ]

@@ -1,0 +1,57 @@
+{
+  "program": {
+    "candyMachine": "2jR9vQihQrDGBYQKQocvcS1nK71S3UBPJLq9s7nzHySR",
+    "candyMachineCreator": "J3HAs19b1zQYj6LkKPJW9GKUwFe3bGDUhmcVGkkXsjTq",
+    "collectionMint": "52LL1hBWBVamieMgrM32k4D5t4LvvH2NcTojH9Qet1Ys"
+  },
+  "items": {
+    "-1": {
+      "name": "Dinos collection",
+      "image_hash": "2502df89e57c343deb1a75ea74c6d2e3a954c0eb42404bced16db5dbf2f409c7",
+      "image_link": "https://arweave.net/NUbkq3G4YKsFiimRR2cyBVE0TMFX-2bFPHmchJKYawY?ext=jpg",
+      "metadata_hash": "60c1824fc462205dea2a822e105d43ff9c6a043283aba81794fb40c35e5a602f",
+      "metadata_link": "https://arweave.net/aUlTo7hBZ_pawgMeNGKrOjdbP5hAkF7nRu2WrmjGyjI",
+      "onChain": true
+    },
+    "0": {
+      "name": "Dino 0",
+      "image_hash": "a8d3481db98eda94c25aaa070c6f8f8c57b38f92253fd959f83cf04990dc376b",
+      "image_link": "https://arweave.net/-iJ6FfxV4miQPDwudqLKBm7UukiVxaED5tGqfqtfH7o?ext=jpg",
+      "metadata_hash": "6e1f53d62b93a5f77f52fd41606d8e722f54a312b86d25f4d77384894ceda5a9",
+      "metadata_link": "https://arweave.net/uFg9RPgDpaWUFjEEz2QTfVbsJ3tqpc_58PxvVqGbOCo",
+      "onChain": true
+    },
+    "1": {
+      "name": "Dino 1",
+      "image_hash": "e8d5cffe94ed604b86915fb397ef8e4eceaa384c03ebe751ebbe288625d4f129",
+      "image_link": "https://arweave.net/ErB0w0onRHE08QdFfuTEIUse6X0PyHoCB9jGsAJ6vyU?ext=jpg",
+      "metadata_hash": "5526ea7ee6c3ab164119fc48213f51a67b91487b54361ef629a985ca08e02a02",
+      "metadata_link": "https://arweave.net/0qOD2-sm1RBObaIw_mm5LhUt-yLhSW2bp236yGPXy68",
+      "onChain": true
+    },
+    "2": {
+      "name": "Dino 2",
+      "image_hash": "c6af940e3d0b508713385fd296e374f7a069202dff521500c739262939d95020",
+      "image_link": "https://arweave.net/b5VaYKvGs61lyHyHEVlqCWfk6ZuKCs77MYmL5iJsn4Q?ext=jpg",
+      "metadata_hash": "8733b1876ed821b513ebd4b3dc5ee7c2df6f10b04ee2a79f91332262e163145e",
+      "metadata_link": "https://arweave.net/HhZZFp6QBAJdJkP8vli0H1NC9n-LBmG8AJ_IsjwXlLc",
+      "onChain": true
+    },
+    "3": {
+      "name": "Dino 3",
+      "image_hash": "3f42cb149d39bd14d66f00c93ff66fed285abf302d74503f91d0ac0c79af9a75",
+      "image_link": "https://arweave.net/E6Hr7p9AJ8Djyuetpmo648UNwWUYkj8kNocr1f7oTPs?ext=jpg",
+      "metadata_hash": "d2ea569364534dca0ce64840b1c920042daff3f1657cccbfa56d40968182f61a",
+      "metadata_link": "https://arweave.net/Vc8vBQFUoabrPIhassxvg505ARLfBZrPFK85M4JJo9A",
+      "onChain": true
+    },
+    "4": {
+      "name": "Dino 4",
+      "image_hash": "e5e80ee50946f2e4783a8a6692bd84545da1adb13f528a25b02540c1aabfe729",
+      "image_link": "https://arweave.net/UaEkBzpE1Rx52O5s2mnqG94GsAFPHaWA2qqoS4PDWMw?ext=jpg",
+      "metadata_hash": "8a77429c4de1c40613e6a608c92fbd47eb9abe90fe74ef034520a8f85d903592",
+      "metadata_link": "https://arweave.net/fQVlmZ8YE2gCoG1Ej6Nntvz6BwJuJLZ6sFZ65iHykdc",
+      "onChain": true
+    }
+  }
+}
