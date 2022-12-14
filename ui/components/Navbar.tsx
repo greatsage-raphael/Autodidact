@@ -14,7 +14,9 @@ export default function Navbar() {
           Collection 😎
         </a>
       </Link>
-      <WalletMultiButton />
+
+      <WalletMultiButton /> 
+
     </nav>
   )
 }

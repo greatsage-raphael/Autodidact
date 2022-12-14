@@ -21,7 +21,7 @@ export default function Holders() {
       return
     }
 
-    // Fetch all the user's NFTs
+    // Fetch all the user's NFTs using the findAllByOwner function, which takes the owner public key as input and returns a list of objects describing the metadata of owned NFTs
     const userNfts = await nfts
       .findAllByOwner({ owner: wallet.publicKey })
 

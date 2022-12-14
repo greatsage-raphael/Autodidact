@@ -1,4 +1,4 @@
-import questions from "../questions.json";
+import questions from "../questions/history.json";
 import Head from "next/head";
 import { useState } from "react";
 import Link from 'next/link';
